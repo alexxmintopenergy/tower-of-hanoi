@@ -11,6 +11,12 @@ This project implements a simple HTTP API for playing the Tower of Hanoi game.
 
 1. Clone the repository
 
+HTTPS: `https://github.com/alexxmintopenergy/tower-of-hanoi.git` 
+
+or
+
+SSH: `git@github.com:alexxmintopenergy/tower-of-hanoi.git`
+
 2. Install dependencies:
    ```
    composer install
